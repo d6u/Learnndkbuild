@@ -1,0 +1,8 @@
+//
+// Created by Daiwei Lu on 4/15/20.
+//
+
+#ifndef LEARN_NDK_BUILD_AWESOME_NATIVE_H
+#define LEARN_NDK_BUILD_AWESOME_NATIVE_H
+
+#endif //LEARN_NDK_BUILD_AWESOME_NATIVE_H
